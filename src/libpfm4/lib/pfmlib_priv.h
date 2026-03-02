@@ -866,6 +866,8 @@ extern pfmlib_pmu_t arm_thunderx2_llc0_support;
 extern pfmlib_pmu_t arm_thunderx2_llc1_support;
 extern pfmlib_pmu_t arm_thunderx2_ccpi0_support;
 extern pfmlib_pmu_t arm_thunderx2_ccpi1_support;
+extern pfmlib_pmu_t arm_cmn_0_support;
+extern pfmlib_pmu_t arm_cmn_1_support;
 
 extern pfmlib_pmu_t arm_fujitsu_a64fx_support;
 extern pfmlib_pmu_t arm_fujitsu_monaka_support;

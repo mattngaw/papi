@@ -631,6 +631,8 @@ typedef enum {
 	PFM_PMU_ARM_KUNPENG_UNC_SCCL7_L3C21, /* Hisilicon Kunpeng SCCL unit 7 L3C uncore */
 	PFM_PMU_ARM_KUNPENG_UNC_SCCL7_L3C22, /* Hisilicon Kunpeng SCCL unit 7 L3C uncore */
 	PFM_PMU_ARM_KUNPENG_UNC_SCCL7_L3C23, /* Hisilicon Kunpeng SCCL unit 7 L3C uncore */
+	PFM_PMU_ARM_CMN_0,		/* Arm CMN-600 PMU instance 0 uncore */
+	PFM_PMU_ARM_CMN_1,		/* Arm CMN-600 PMU instance 1 uncore */
 
 	PFM_PMU_INTEL_SPR,		/* Intel SapphireRapid */
 
